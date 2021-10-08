@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="JQuery" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="jQuery" />
+      <option name="frameworkVersion" value="3.6.0" />
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/libs/jquery-3.6.0.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/jquery-3.6.0.js" />
+    </CLASSES>
+    <DOCUMENTATION>
+      <root url="http://api.jquery.com" />
+    </DOCUMENTATION>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
